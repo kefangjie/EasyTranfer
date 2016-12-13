@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Nov 13 15:14:06 CST 2016
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=EasyTranfer_02_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.im.ui.EasyTransferMainFrame
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
